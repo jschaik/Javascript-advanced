@@ -18,7 +18,7 @@ Na het voltooien van deze module kun je:
 
 Deze module behandelt de volgende onderwerpen:
 
-### 1. 🔧 Array Methods
+### 1. Array Methods
 Leer de belangrijkste array methods zoals `filter()`, `map()`, `sort()`, `find()` en `includes()`. Deze methods maken je code korter en professioneler.
 
 ### 2. String Methods  
@@ -42,14 +42,17 @@ Ontdek hoe je data ophaalt van externe bronnen en deze gebruikt in je eigen appl
 
 ## Aan de slag
 
-### Repository forken
+### Repository clonen
 
-1. **Fork deze repository** naar je eigen GitHub account:
-   - Klik op de "Fork" button rechtsboven in deze repository
-   - Kies je eigen GitHub account als bestemming
-   - Wacht tot het fork proces voltooid is
+1. **Maak een nieuwe repository aan met deze template**:
+   - Klik op de groene knop "Use this template" rechtsboven in deze repository
+   - Selecteer "Create a new repository"
+   - Kies je eigen GitHub account als owner
+   - Geef je repository een naam
+   - Klik op "Create repository"
+   - Wacht tot het aanmaken voltooid is
 
-2. **Clone je geforkte repository** naar je computer:
+2. **Clone je nieuwe repository** naar je computer
 
 3. **Open de folder** in je code editor (bijvoorbeeld VS Code)
 
