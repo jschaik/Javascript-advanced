@@ -1,10 +1,10 @@
 # JavaScript Advanced
 
-## 📚 Welkom bij de JavaScript Advanced Module
+## Welkom bij de JavaScript Advanced Module
 
 Deze repository bevat alle theorie, opdrachten en voorbeelden voor de JavaScript Advanced Module. In deze module ga je dieper in op JavaScript en leer je de moderne manier van programmeren zoals deze in bedrijven wordt toegepast.
 
-## 🎯 Leerdoelen
+## Leerdoelen
 
 Na het voltooien van deze module kun je:
 - Moderne JavaScript syntax gebruiken (arrow functions, template literals, etc.)
@@ -14,33 +14,33 @@ Na het voltooien van deze module kun je:
 - JSON bestanden lezen en schrijven
 - Complexe web applicaties bouwen met JavaScript
 
-## 📖 Onderwerpen
+## Onderwerpen
 
 Deze module behandelt de volgende onderwerpen:
 
 ### 1. 🔧 Array Methods
 Leer de belangrijkste array methods zoals `filter()`, `map()`, `sort()`, `find()` en `includes()`. Deze methods maken je code korter en professioneler.
 
-### 2. 📝 String Methods  
+### 2. String Methods  
 Ontdek handige string methods zoals `toLowerCase()`, `toUpperCase()`, `trim()` en template literals voor het werken met tekst.
 
-### 3. 💾 Local Storage
+### 3. Local Storage
 Leer hoe je data opslaat in de browser van de gebruiker, zodat informatie bewaard blijft tussen sessies.
 
-### 4. ⚡ Moderne JavaScript Syntax
+### 4. Moderne JavaScript Syntax
 Stap over van oude naar moderne JavaScript syntax zoals arrow functions, for/of loops en querySelector.
 
-### 5. 🏗️ Objects
+### 5. Objects
 Begrijp de basis van JavaScript: objecten. Leer hoe je properties, methods en complexe datastructuren maakt.
 
-### 6. 📄 JSON (JavaScript Object Notation)
+### 6. JSON (JavaScript Object Notation)
 Leer werken met JSON bestanden voor het opslaan en uitwisselen van gestructureerde data.
 
-### 7. 🌐 API's (Application Programming Interface)
+### 7. API's (Application Programming Interface)
 Ontdek hoe je data ophaalt van externe bronnen en deze gebruikt in je eigen applicaties.
 
 
-## 🚀 Aan de slag
+## Aan de slag
 
 ### Repository forken
 
@@ -54,7 +54,7 @@ Ontdek hoe je data ophaalt van externe bronnen en deze gebruikt in je eigen appl
 3. **Open de folder** in je code editor (bijvoorbeeld VS Code)
 
 
-## 📚 Theorie
+## Theorie
 
 **In elke hoofdfolder staat een `theorie.md` bestand** met uitgebreide uitleg over het onderwerp. Lees deze bestanden eerst voordat je aan de opdrachten begint.
 
@@ -71,7 +71,7 @@ Deze theorie bestanden bevatten:
 - ✅ Veelgemaakte fouten en hoe je ze vermijdt
 - ✅ Tips voor professioneel programmeren
 
-## 📝 Opdrachten maken
+## Opdrachten maken
 
 ### Belangrijke regels:
 
