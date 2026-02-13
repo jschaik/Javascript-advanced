@@ -85,7 +85,7 @@ Deze theorie bestanden bevatten:
 3. **Test je code altijd** in de browser en developer tools
 
 
-## 🔄 Workflow
+## Workflow
 
 ### Dagelijkse workflow:
 
@@ -95,7 +95,7 @@ Deze theorie bestanden bevatten:
 4. **Test regelmatig** je code in de browser
 5. **Commit en push** je work naar GitHub
 
-## 🆘 Hulp nodig?
+## Hulp nodig?
 
 ### Stappenplan bij problemen:
 
@@ -111,7 +111,7 @@ Deze theorie bestanden bevatten:
 - [W3Schools JavaScript](https://www.w3schools.com/js/) - Beginnersvriendelijke tutorials
 - [JavaScript.info](https://javascript.info/) - Diepgaande JavaScript guide
 
-## 🏁 Succes!
+## Succes!
 
 Deze module vormt de basis voor moderne web development. De concepten die je hier leert, gebruik je in alle toekomstige projecten. 
 
@@ -119,4 +119,4 @@ Deze module vormt de basis voor moderne web development. De concepten die je hie
 
 ---
 
-**Veel succes met de JavaScript Advanced Module! 🚀**
+**Veel succes met de JavaScript Advanced Module!**
